@@ -1,0 +1,46 @@
+html {
+    background-image: url("background.jpg");
+    
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: rgba(77, 76, 76, 0.726);
+    color: white;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+h3 {
+    font-family: 'Asap', sans-serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+
+}
+
+#btn {
+    font-size: 15px;
+    Padding: 5px ;
+
+}
+
+#score {
+    font-size: 25px;
+}
